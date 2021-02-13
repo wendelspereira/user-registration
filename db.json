@@ -1,0 +1,24 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Maria de Lurdes da Silva",
+      "email": "marialurdes@empresa.com"
+    },
+    {
+      "id": 2,
+      "name": "Joao Barbosa da Silva",
+      "email": "joaosilva@empresa.com.br"
+    },
+    {
+      "name": "gfhsfdg",
+      "email": "hdfghdfg",
+      "id": 3
+    },
+    {
+      "name": "fgsfgsdf",
+      "email": "sdfgsdfg",
+      "id": 4
+    }
+  ]
+}
